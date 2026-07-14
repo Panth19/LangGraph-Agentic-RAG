@@ -380,4 +380,4 @@ docs = loader.load()  # Test loading
 
 ---
 
-**Made with ❤️ by the Agentic RAG Community**
+
